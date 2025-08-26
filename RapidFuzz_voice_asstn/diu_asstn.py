@@ -8,7 +8,7 @@ import os
 # =============================
 # Config
 # =============================
-VOSK_MODEL_DIR = "/home/rasel/vosk-model-small-en-us-0.15"
+VOSK_MODEL_DIR = "/home/pi/vosk-model-small-en-us-0.15"
 YAML_QA_PATH = "qna.yml"
 READY_MESSAGE = "I am ready."
 SCORE_THRESHOLD = 70  # semantic similarity threshold
