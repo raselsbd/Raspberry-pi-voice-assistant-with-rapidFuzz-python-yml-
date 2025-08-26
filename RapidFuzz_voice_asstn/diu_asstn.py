@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json, time, yaml
 import pyttsx3, pyaudio
 from vosk import Model, KaldiRecognizer
