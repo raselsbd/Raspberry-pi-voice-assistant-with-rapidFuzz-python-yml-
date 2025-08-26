@@ -1,0 +1,56 @@
+# Dhaka International University – Custom QA (Last updated: 2025-08-25)
+faqs:
+  - q: what is your name
+    a: I am the Dhaka International University assistant.
+
+  - q: who are you
+    a: I am your offline voice assistant for Dhaka International University.
+
+  - q: are you ready
+    a: I am ready.
+
+  - q: when was dhaka international university established
+    a: Dhaka International University was established on April 7, 1995.
+
+  - q: who founded dhaka international university
+    a: It was founded by Late Alhaj Professor Dr. A. B. M. Mafizul Islam Patwari.
+
+  - q: who is the vice chancellor of dhaka international university
+    a: The Vice-Chancellor of DIU is Professor Dr. Zahidul Islam.
+
+  - q: what is the permanent campus address
+    a: Permanent Campus address is Satarkul, Badda, Dhaka-1212, Bangladesh.
+
+  - q: admission phone number
+    a: The admission help desk phone is +8809677777348.
+
+  - q: admission email
+    a: The admission email is admission@diu.net.bd.
+
+  - q: faculties of diu
+    a: DIU has Faculty of Science and Engineering, Faculty of Arts and Social Sciences, and Faculty of Business Studies.
+
+  - q: list the departments
+    a: Departments include CSE, EEE, Civil Engineering, Pharmacy, Microbiology, Biochemistry and Molecular Biology, English, Political Science, Sociology, Economics, Development Studies, and Business Administration.
+
+  - q: where is the library
+    a: The main library service is at the permanent campus in Satarkul, Badda, Dhaka-1212.
+
+  - q: office of the vice chancellor contact
+    a: Office of the Vice-Chancellor is at the Permanent Campus, Satarkul, Badda, Dhaka-1212. Email zahidulislam@diu.ac.
+
+  - q: how to contact the university
+    a: You can call +8809677777348 or email admission@diu.net.bd.
+
+  - q: campus locations
+    a: The permanent campus is in Satarkul, Badda, Dhaka-1212. Some pages also reference Banani and Green Road addresses for specific units.
+
+smalltalk:
+  - q: hi
+    a: Hello! How can I help you?
+  - q: hello
+    a: Hi there! How may I assist you?
+  - q: thanks
+    a: You are welcome!
+  - q: bye
+    a: Goodbye and have a great day!
